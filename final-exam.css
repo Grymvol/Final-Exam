@@ -2,14 +2,14 @@
 
 .left-column {
   float: left;
-  width: 70%;
+  width: 66%;
 
 
 }
 
 .right-column {
   float: right;
-  width: 30%
+  width: 33%
 }
 
 img {
@@ -61,4 +61,9 @@ h2 {
 
 .columns {
   padding-top: 35px;
+}
+
+#reveal-recipes {
+  padding: 5px 5px 5px 5px;
+  background-color: lightgreen;
 }
